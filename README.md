@@ -1,0 +1,2 @@
+# genlayer-intelligent-contract
+jinjin
